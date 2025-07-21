@@ -18,9 +18,9 @@ app.set('views', path.join(__dirname, 'views'));
 // Update with your own DB info from azure
 const config = {
     user: 'azureuser',
-    password: 'P@ssw0rdssss',
-    server: 'bingoone.database.windows.net',
-    database: 'sirsircost',
+  password: 'Swostika$456',
+  server: 'swosdb.database.windows.net',
+  database: 'swosdb',
     options: {
         encrypt: true,
         enableArithAbort: true
